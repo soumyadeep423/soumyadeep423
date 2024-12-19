@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 About Me
+- 🌱 I’m currently learning Web Development, Data Structures and Algorithms, AI and ML, Blockchain.
+- 👨‍💻 I love building Web Apps, AI models and more.
+- 🎯 My goal is to become a full stack developer, contribute to the community🗿.
